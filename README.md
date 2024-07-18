@@ -1,3 +1,3 @@
-# COP3502_Lab2
+# COP3502_Lab3
 
 Go to master branch
